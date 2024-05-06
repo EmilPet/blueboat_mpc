@@ -1,0 +1,35 @@
+/home/emil/.local/lib/python3.10/site-packages/setuptools/command/develop.py:40: EasyInstallDeprecationWarning: easy_install command is deprecated.
+!!
+
+        ********************************************************************************
+        Please avoid running ``setup.py`` and ``easy_install``.
+        Instead, use pypa/build, pypa/installer or other
+        standards-based tools.
+
+        See https://github.com/pypa/setuptools/issues/917 for details.
+        ********************************************************************************
+
+!!
+  easy_install.initialize_options(self)
+running develop
+running egg_info
+creating bb_mpc.egg-info
+writing bb_mpc.egg-info/PKG-INFO
+writing dependency_links to bb_mpc.egg-info/dependency_links.txt
+writing entry points to bb_mpc.egg-info/entry_points.txt
+writing requirements to bb_mpc.egg-info/requires.txt
+writing top-level names to bb_mpc.egg-info/top_level.txt
+writing manifest file 'bb_mpc.egg-info/SOURCES.txt'
+reading manifest file 'bb_mpc.egg-info/SOURCES.txt'
+writing manifest file 'bb_mpc.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/emil/ros2_ws_lp/src/bb_mpc/install/bb_mpc/lib/python3.10/site-packages/bb-mpc.egg-link (link to .)
+Installing test_node script to /home/emil/ros2_ws_lp/src/bb_mpc/install/bb_mpc/lib/bb_mpc
+
+Installed /home/emil/ros2_ws_lp/src/bb_mpc/build/bb_mpc
+running symlink_data
+creating /home/emil/ros2_ws_lp/src/bb_mpc/install/bb_mpc/share/ament_index
+creating /home/emil/ros2_ws_lp/src/bb_mpc/install/bb_mpc/share/ament_index/resource_index
+creating /home/emil/ros2_ws_lp/src/bb_mpc/install/bb_mpc/share/ament_index/resource_index/packages
+symbolically linking /home/emil/ros2_ws_lp/src/bb_mpc/build/bb_mpc/resource/bb_mpc -> /home/emil/ros2_ws_lp/src/bb_mpc/install/bb_mpc/share/ament_index/resource_index/packages
+symbolically linking /home/emil/ros2_ws_lp/src/bb_mpc/build/bb_mpc/package.xml -> /home/emil/ros2_ws_lp/src/bb_mpc/install/bb_mpc/share/bb_mpc

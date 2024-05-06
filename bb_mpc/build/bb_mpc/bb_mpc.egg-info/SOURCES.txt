@@ -1,0 +1,13 @@
+package.xml
+setup.cfg
+setup.py
+bb_mpc/__init__.py
+bb_mpc/mpc.py
+bb_mpc.egg-info/PKG-INFO
+bb_mpc.egg-info/SOURCES.txt
+bb_mpc.egg-info/dependency_links.txt
+bb_mpc.egg-info/entry_points.txt
+bb_mpc.egg-info/requires.txt
+bb_mpc.egg-info/top_level.txt
+bb_mpc.egg-info/zip-safe
+resource/bb_mpc

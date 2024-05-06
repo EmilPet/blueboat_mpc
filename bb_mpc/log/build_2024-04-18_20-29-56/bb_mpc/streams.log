@@ -1,0 +1,37 @@
+[0.408s] Invoking command in '/home/emil/ros2_ws_lp/src/bb_mpc/build/bb_mpc': PYTHONPATH=/home/emil/ros2_ws_lp/src/bb_mpc/build/bb_mpc/prefix_override:/home/emil/ros2_ws_lp/src/bb_mpc/install/bb_mpc/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --editable --build-directory /home/emil/ros2_ws_lp/src/bb_mpc/build/bb_mpc/build --no-deps symlink_data
+[0.575s] /home/emil/.local/lib/python3.10/site-packages/setuptools/command/develop.py:40: EasyInstallDeprecationWarning: easy_install command is deprecated.
+[0.575s] !!
+[0.575s] 
+[0.575s]         ********************************************************************************
+[0.576s]         Please avoid running ``setup.py`` and ``easy_install``.
+[0.576s]         Instead, use pypa/build, pypa/installer or other
+[0.576s]         standards-based tools.
+[0.576s] 
+[0.576s]         See https://github.com/pypa/setuptools/issues/917 for details.
+[0.576s]         ********************************************************************************
+[0.576s] 
+[0.576s] !!
+[0.576s]   easy_install.initialize_options(self)
+[0.576s] running develop
+[0.680s] running egg_info
+[0.681s] creating bb_mpc.egg-info
+[0.688s] writing bb_mpc.egg-info/PKG-INFO
+[0.688s] writing dependency_links to bb_mpc.egg-info/dependency_links.txt
+[0.688s] writing entry points to bb_mpc.egg-info/entry_points.txt
+[0.688s] writing requirements to bb_mpc.egg-info/requires.txt
+[0.688s] writing top-level names to bb_mpc.egg-info/top_level.txt
+[0.689s] writing manifest file 'bb_mpc.egg-info/SOURCES.txt'
+[0.704s] reading manifest file 'bb_mpc.egg-info/SOURCES.txt'
+[0.704s] writing manifest file 'bb_mpc.egg-info/SOURCES.txt'
+[0.712s] running build_ext
+[0.712s] Creating /home/emil/ros2_ws_lp/src/bb_mpc/install/bb_mpc/lib/python3.10/site-packages/bb-mpc.egg-link (link to .)
+[0.713s] Installing test_node script to /home/emil/ros2_ws_lp/src/bb_mpc/install/bb_mpc/lib/bb_mpc
+[0.713s] 
+[0.713s] Installed /home/emil/ros2_ws_lp/src/bb_mpc/build/bb_mpc
+[0.713s] running symlink_data
+[0.713s] creating /home/emil/ros2_ws_lp/src/bb_mpc/install/bb_mpc/share/ament_index
+[0.713s] creating /home/emil/ros2_ws_lp/src/bb_mpc/install/bb_mpc/share/ament_index/resource_index
+[0.713s] creating /home/emil/ros2_ws_lp/src/bb_mpc/install/bb_mpc/share/ament_index/resource_index/packages
+[0.713s] symbolically linking /home/emil/ros2_ws_lp/src/bb_mpc/build/bb_mpc/resource/bb_mpc -> /home/emil/ros2_ws_lp/src/bb_mpc/install/bb_mpc/share/ament_index/resource_index/packages
+[0.713s] symbolically linking /home/emil/ros2_ws_lp/src/bb_mpc/build/bb_mpc/package.xml -> /home/emil/ros2_ws_lp/src/bb_mpc/install/bb_mpc/share/bb_mpc
+[0.731s] Invoked command in '/home/emil/ros2_ws_lp/src/bb_mpc/build/bb_mpc' returned '0': PYTHONPATH=/home/emil/ros2_ws_lp/src/bb_mpc/build/bb_mpc/prefix_override:/home/emil/ros2_ws_lp/src/bb_mpc/install/bb_mpc/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --editable --build-directory /home/emil/ros2_ws_lp/src/bb_mpc/build/bb_mpc/build --no-deps symlink_data
