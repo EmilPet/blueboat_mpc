@@ -1,3 +1,4 @@
+# Based on code by Mohamed W. Mehrez, "MPC and MHE implementation in Matlab using CasADi" (2019)
 #!/usr/bin/env python3
 
 import rclpy
